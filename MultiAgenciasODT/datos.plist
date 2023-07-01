@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>nombresReceptores</key>
+	<array>
+		<string>David Lopez</string>
+		<string>Eddy Lopez</string>
+		<string>Vinicio Figueroa</string>
+		<string>Braulio Arellano </string>
+		<string>Marcos Miranda</string>
+	</array>
+	<key>telefonosReceptores</key>
+	<array>
+		<string>2301-5959</string>
+		<string>2301-5959</string>
+		<string>2301-5959</string>
+		<string>2301-5959</string>
+		<string>2301-5959</string>
+	</array>
+</dict>
+</plist>
